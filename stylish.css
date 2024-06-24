@@ -1,0 +1,175 @@
+
+.navbar-brand {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+}
+
+.container {
+    font-size: larger;
+}
+
+#firstimage{
+    border-radius: 50px;
+    box-shadow: 4px 10px 10px rgba(0, 0, 0, 0.4);
+}
+
+#about{
+    color: #007bff;
+}
+
+/* #r3 {
+    margin-left: 200px;
+} */
+
+.img {
+    position: relative;
+    left: 10rem;
+    border-radius: 50px;
+    box-shadow: 4px 10px 10px rgba(0, 0, 0, 0.4);
+}
+
+#pro1{
+    background-color: lavender;
+    animation: load1 5s normal forwards;
+}
+@keyframes load1{
+0%{
+    width: 0;
+  }
+100%{
+    width: 35;
+}
+}
+
+#pro2{
+    background-color: lavender;
+    animation: load2 5s normal forwards;
+}
+@keyframes load2{
+0%{
+    width: 0;
+  }
+100%{
+    width: 35;
+}
+}
+
+#pro3{
+    background-color: lavender;
+    animation: load3 5s normal forwards;
+}
+@keyframes load3{
+0%{
+    width: 0;
+  }
+100%{
+    width: 35;
+}
+}
+
+#pro4{
+    background-color: lavender;
+    animation: load4 5s normal forwards;
+}
+@keyframes load4{
+0%{
+    width: 0;
+  }
+100%{
+    width: 35;
+}
+}
+
+#pro5{
+    background-color: lavender;
+    animation: load5 5s normal forwards;
+}
+@keyframes load5{
+0%{
+    width: 0;
+  }
+100%{
+    width: 35;
+}
+}
+
+#pro6{
+    background-color: lavender;
+    animation: load6 5s normal forwards;
+}
+@keyframes load6{
+0%{
+    width: 0;
+  }
+100%{
+    width: 35;
+}
+}
+#fa{
+    font-size: 35px;
+}
+.card{
+    margin-left: 5rem;
+    box-shadow: 4px 10px 10px;
+    transition: 0.3s;
+}
+
+.card:hover{
+    transform: scale(1.15);
+}
+
+#quali{
+    color: #007bff;
+}
+
+#service{
+    color: #007bff;
+}
+
+#project{
+    color: #007bff
+}
+
+#exp{
+    color: #007bff;
+}
+
+#contact{
+    color: #007bff
+}
+
+.f {
+    height: 50px;
+    width: 340px;
+    background-color: #f0bbdc;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    box-shadow: 0 0 6px rgb(231, 100, 13);
+}
+
+.f1 {
+    height: 140px;
+    width: 250px;
+    background-color: #f0bbdc;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    box-shadow: 0 0 6px rgb(231, 100, 13);
+}
+
+#c2{
+    margin-top: -6px;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#thanks{
+    margin-top: 2rem;
+    text-align: center;
+}
